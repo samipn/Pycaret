@@ -13,6 +13,7 @@ A compact, classroom-friendly collection of **PyCaret** notebooks covering:
 >
 > Datasets were chosen to avoid PyCaret’s official example notebooks.
 
+Walkthrough Video Link: https://drive.google.com/file/d/1_G-NBPYHZ4e29dEn6iDK3Slsjq3KUJjS/view?usp=sharing
 ---
 
 ## 📚 Notebooks
